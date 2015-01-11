@@ -1,0 +1,2 @@
+# cyn
+College YIG News
